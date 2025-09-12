@@ -39,7 +39,7 @@ nmap -sn 192.168.0.0/24
 ````
 
 Captura:
-![Descubrimiento de hosts](images/nmap_sn_scan.png)
+![Descubrimiento de hosts](Images/Screenshot_20250910_122806_com_termux_TermuxActivity.jpg)
 *(Reemplaza `images/nmap_sn_scan.png` por el nombre exacto de tu captura.)*
 
 ---
