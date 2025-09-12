@@ -53,7 +53,7 @@ nmap -p 22,80,443 192.168.0.106
 ```
 
 Captura:
-![Escaneo puertos específicos](images/Screenshot_20250910_122806_com_termux_TermuxActivity.jpg)
+![Escaneo puertos específicos](Screenshot_20250910_122806_com_termux_TermuxActivity.jpg)
 
 ---
 
