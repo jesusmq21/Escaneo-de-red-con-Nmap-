@@ -73,7 +73,7 @@ Comando reproducible (usa `sudo` si tienes permisos):
 sudo nmap -sS -sV -O -p- 192.168.0.106 -oA outputs/03_full-scan
 ```
 
-![Captura:](Images/escaneodepuertos.png)
+![Captura:](Images/escaneocondetecciondeservicios.png)
 Salida observada (extracto real de la captura):
 
 ```
