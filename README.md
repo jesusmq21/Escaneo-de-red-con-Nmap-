@@ -36,7 +36,7 @@ Comando:
 nmap -sn 192.168.0.0/24 -oN outputs/01_discovery.txt
 ```
 
-Captura: `Images/descubrimientodehost.png`
+Captura: `images/descubrimientodehost.png`
 Salida clave (extracto):
 
 * Hosts up: `192.168.0.1`, `192.168.0.100`, `192.168.0.101`, `192.168.0.102`, **`192.168.0.106`**, `192.168.0.107`.
