@@ -39,7 +39,7 @@ nmap -sn 192.168.0.0/24
 ````
 
 Captura:
-![Descubrimiento de hosts_(Images
+![Descubrimiento de hosts.(Images
 /descubrimientodehost.png)
 
 ---
@@ -53,7 +53,7 @@ nmap -p 22,80,443 192.168.0.106
 ```
 
 Captura:
-![Escaneo puertos específicos](images/escaneocondetecciondeservicios.png)
+![Escaneo puertos específicos.(images/escaneocondetecciondeservicios.png)
 
 ---
 
