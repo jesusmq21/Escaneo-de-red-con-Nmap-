@@ -39,7 +39,7 @@ nmap -sn 192.168.0.0/24
 ````
 
 Captura:
-![Descubrimiento de hosts](Images
+![Descubrimiento de hosts_(Images
 /descubrimientodehost.png)
 
 ---
