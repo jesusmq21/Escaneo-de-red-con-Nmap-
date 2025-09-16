@@ -51,7 +51,7 @@ Comando (no root):
 nmap -p 22,80,443 192.168.0.106 -oN outputs/02_ports-specific.txt
 ```
 
-Captura: `images/02_ports.png`
+![Captura:](Images/descubrimientodehost.png)
 Salida observada:
 
 ```
